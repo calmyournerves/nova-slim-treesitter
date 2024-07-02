@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<syntax name="slim">
+    <meta>
+        <name>Slim</name>
+        <type>markup</type>
+        <preferred-file-extension>slim</preferred-file-extension>
+    </meta>
+
+    <detectors>
+        <extension priority="1.0">slim,html.slim</extension>
+    </detectors>
+
+    <tree-sitter>
+        <highlights />
+        <folds />
+        <injections />
+        <symbols />
+    </tree-sitter>
+</syntax>

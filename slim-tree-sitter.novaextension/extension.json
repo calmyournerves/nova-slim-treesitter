@@ -1,0 +1,8 @@
+{
+    "identifier": "ch.calmyournerves.slim-tree-sitter",
+    "name": "Slim Tree-Sitter",
+    "organization": "calmyournerves",
+    "description": "Syntax highlighting for Slim template files using Tree-Sitter",
+    "version": "1.0",
+    "categories": ["languages"]
+}
