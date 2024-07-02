@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# Credits to https://github.com/mrsdizzie/nova-perl-treesitter.
+
 set -euxo pipefail
 
 git submodule init
