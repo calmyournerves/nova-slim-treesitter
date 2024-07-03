@@ -14,10 +14,6 @@
 (element_text) @string
 (verbatim_text) @string
 
-; Ruby
-; (ruby_block_control) @comment
-; [ "else" ] @keyword.condition
-
 ; Embeddings
 (embedded_engine_name) @processing
 
