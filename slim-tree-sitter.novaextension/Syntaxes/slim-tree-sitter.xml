@@ -9,6 +9,12 @@
     <detectors>
         <extension priority="1.0">slim,html.slim</extension>
     </detectors>
+    
+    <comments>
+        <single>
+            <expression>/ </expression>
+        </single>
+    </comments>
 
     <tree-sitter>
         <highlights />

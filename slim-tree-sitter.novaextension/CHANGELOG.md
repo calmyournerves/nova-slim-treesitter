@@ -1,3 +1,7 @@
+## Version 1.0.3
+
+Add comment rule.
+
 ## Version 1.0.2
 
 Update upstream tree-sitter-slim which includes a fix for space before attribute delimiters.
