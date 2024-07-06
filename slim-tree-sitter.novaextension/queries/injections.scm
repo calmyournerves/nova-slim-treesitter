@@ -1,10 +1,9 @@
-[
-  (ruby)
-  (#set! injection.language ruby)
-] @injection.content
+((ruby) @injection.content
+ (#set! injection.language ruby)
+ (#set! injection.combined))
 
-[
-  (embedded_engine
-    (embedded_engine_name) @injection.language
-  )
-] @injection.content
+((attr_value_ruby) @injection.content
+ (#set! injection.language ruby))
+
+((embedded_engine
+ (embedded_engine_name) @injection.language) @injection.content)
