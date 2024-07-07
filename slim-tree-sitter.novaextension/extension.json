@@ -4,7 +4,7 @@
     "organization": "calmyournerves",
     "description": "Syntax highlighting for Slim template files using Tree-Sitter",
     "license": "MIT",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "categories": ["languages"],
     "repository": "https://github.com/calmyournerves/nova-slim-treesitter",
     "bugs": "https://github.com/calmyournerves/nova-slim-treesitter/issues",
